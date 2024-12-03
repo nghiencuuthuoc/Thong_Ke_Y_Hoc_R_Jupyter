@@ -1,5 +1,10 @@
 # Thong_Ke_Y_Hoc_R_Jupyter
 Thống kê y học với R, chạy bằng Jupyter Notebook / Medical statistics with R, running with Jupyter Notebook
+Kết hợp nhiều công thức toán học viết bằng Latex
+
+## Video: https://youtu.be/pqwMfz1KUcs
+## Viết theo sách:
+Trích từ sách: https://www.ykhoa.net/baigiang/GS_Nguyen_Van_Tuan/phuong_phap_thong_ke_r/index.htm
 
 ## [How to Run R Programs Directly in Jupyter Notebook Locally](https://www.freecodecamp.org/news/how-to-run-r-programs-directly-in-jupyter-notebook-locally/)
 ```
