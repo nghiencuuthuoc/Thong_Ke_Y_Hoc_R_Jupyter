@@ -1,5 +1,6 @@
 # Thong_Ke_Y_Hoc_R_Jupyter
 Thống kê y học với R, chạy bằng Jupyter Notebook / Medical statistics with R, running with Jupyter Notebook
+
 Kết hợp nhiều công thức toán học viết bằng Latex
 
 ## Video: https://youtu.be/pqwMfz1KUcs
