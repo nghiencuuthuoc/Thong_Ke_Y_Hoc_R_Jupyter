@@ -15,7 +15,7 @@ Trích từ sách: https://www.ykhoa.net/baigiang/GS_Nguyen_Van_Tuan/phuong_phap
 ## [How to Run R Programs Directly in Jupyter Notebook Locally](https://www.freecodecamp.org/news/how-to-run-r-programs-directly-in-jupyter-notebook-locally/)
 ```
 conda create --name py313_r442 python==3.13
-conda activate py313_442
+conda activate py313_r442
 conda config --add channels r
 conda install -c conda-forge r-base=4.4.2
 conda install ipykernel jupyter
@@ -26,7 +26,7 @@ conda install -c r r-irkernel
 ```
 git clone https://github.com/nghiencuuthuoc/Thong_Ke_Y_Hoc_R_Jupyter
 cd Thong_Ke_Y_Hoc_R_Jupyter
-conda activate py313_442
+conda activate py313_r442
 jupyter lab
 
 ```
@@ -35,7 +35,7 @@ jupyter lab
 ```
 git clone https://github.com/nghiencuuthuoc/Thong_Ke_Y_Hoc_R_Jupyter
 cd Thong_Ke_Y_Hoc_R_Jupyter
-conda activate py313_442
+conda activate py313_r442
 r.exe
 install.package('design')
 ```
