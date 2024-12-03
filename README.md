@@ -3,6 +3,11 @@ Thống kê y học với R, chạy bằng Jupyter Notebook / Medical statistics
 
 Kết hợp nhiều công thức toán học viết bằng Latex
 
+![](./images/r_jupyter_01.jpg)
+
+
+![](./images/r_jupyter_02.jpg)
+
 ## Video: https://youtu.be/pqwMfz1KUcs
 ## Viết theo sách:
 Trích từ sách: https://www.ykhoa.net/baigiang/GS_Nguyen_Van_Tuan/phuong_phap_thong_ke_r/index.htm
